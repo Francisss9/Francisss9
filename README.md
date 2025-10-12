@@ -22,7 +22,7 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing e
 ### 🔗 Connect With Me
 - [Instagram](#)  
 - [Twitter](#)  
-- [Youtube](https://www.youtube.com/channel/Francisgomesx)
+- [Youtube](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
 - [Uni Account](https://github.com/Francisgomesx)
 
 ---
