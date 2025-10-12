@@ -1,7 +1,7 @@
 # Self-Made 🚀
 
 ### About Me
-I'm an 18-year-old student at ISEP and I'm focused on mastering the markets and optimizing every area of life.  
+I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing every area of life.  
 
 ---
 
