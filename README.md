@@ -1,16 +1,15 @@
 # Self-Made 🚀
 
 ### About Me
-I'm an 18-year-old day-trader and lifelong learner focused on mastering the markets and optimizing every area of life.  
-Currently trading **US500 & NAS100**, journaling, backtesting, and leveling up discipline, mindset, and strategy.
+I'm an 18-year-old student at ISEP and I'm focused on mastering the markets and optimizing every area of life.  
 
 ---
 
 ### 🎯 Current Focus
-- Day-trading indexes (US500, NAS100) with Smart Money Concepts (TJR Strategy)  
-- Developing a high-performance lifestyle (Stark–Wayne Path)  
+- Day-trading indexes (US500, NAS100) with Smart Money Concepts (TJR Strategy)
+- Developing a high-performance lifestyle
 - Quitting easy dopamine habits, building mental toughness  
-- Long-term goal: become a **polymath** in 3 years  
+- Long-term goal: become a **polymath** in 5 years  
 
 ---
 
@@ -20,8 +19,14 @@ Currently trading **US500 & NAS100**, journaling, backtesting, and leveling up d
 ---
 
 ### 🔗 Connect With Me
-- [LinkedIn](#)  
+- [Instagram](#)  
 - [Twitter](#)  
-- [Trading Journal](#)  
+- [Youtube](#)
 
 ---
+
+### </> Languages
+
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
