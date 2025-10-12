@@ -6,10 +6,11 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering the markets and 
 ---
 
 ### 🎯 Current Focus
-- Day-trading indexes (US500, NAS100) with Smart Money Concepts (TJR Strategy)
-- Developing a high-performance lifestyle
-- Quitting easy dopamine habits, building mental toughness  
-- Long-term goal: become a **polymath** in 5 years  
+- Day-trading indexes (US500, NAS100) with Smart Money Concepts (TJR Strategy);
+- Developing a high-performance lifestyle;
+- Quitting easy dopamine habits, building mental toughness;
+- Learning code and app development;
+- Long-term goal: become a **polymath** in 5 years.
 
 ---
 
