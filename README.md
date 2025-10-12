@@ -4,4 +4,4 @@
 
 ### 📊 S T A T S
 
-![Gomesx GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesx&show_icons=true&theme=graywhite)
+![Francisss9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite)
