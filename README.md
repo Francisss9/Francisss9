@@ -23,6 +23,7 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing e
 - [Instagram](#)  
 - [Twitter](#)  
 - [Youtube](#)
+- [Uni Account](#)
 
 ---
 
