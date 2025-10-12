@@ -1,4 +1,4 @@
-# Self-Made 🚀
+# Hi I'm Francisgomesx 🚀
 
 ### About Me
 I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing every area of life.  
