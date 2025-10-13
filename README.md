@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### </> Investigating
+### </> Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,git,github" alt="Programming Languages" />
