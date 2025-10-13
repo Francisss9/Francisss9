@@ -25,7 +25,7 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing e
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&layout=compact&theme=graywhite)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&layout=compact&theme=graywhite" alt="Top Languages" />
 
 </div>
 
