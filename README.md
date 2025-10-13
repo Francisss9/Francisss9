@@ -51,7 +51,7 @@
 ### </> Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,notion,git" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=windows,notion,github,vscode,idea" alt="Tools" />
 </p>
 
 </div>
