@@ -20,7 +20,10 @@
 
 <p align="center">
   
-  [Youtube](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/fpsgomes9)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Francisgomesx)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 </div>
@@ -79,7 +82,7 @@
 
 <div align="center">
 
-<span style="color:#627972; font-family:monospace">_Feel free to explore my repositories and get in touch with me if you'd like to collaborate on any projects or share new ideias!_</span>
+<span style="color:#627972; font-family:monospace">_Feel free to explore my repositories and get in touch with me if you'd like to collaborate on any projects or share new ideas!_</span>
 
 <br>
 
