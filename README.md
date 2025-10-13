@@ -1,52 +1,77 @@
-# Hi I'm Francisgomesx 🚀
-
-### About Me
-I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing every area of life.  
-
-#
-
-### 🎯 Current Focus
-- Day-trading;
-- Developing a high-performance lifestyle;
-- Learning code and app development;
-
-#
+<div align="center">
+  
+  ## | About Me |
 
 <br>
 
+</div>
+
 <div align="center">
 
-### 📊 Stats
+### </> Investigating
 
 <p align="center">
-  
-  ![Francisss9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite)
+  <img src="https://skillicons.dev/icons?i=java,git,github" alt="Programming Languages" />
 </p>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&layout=compact&theme=graywhite" alt="Top Languages" />
-
-</div>
-
-<br>
-
-#
-
-<div align="center">
-
-
-<br>
-
-
-### 🔗 Connections
+### </> Connections
 
 <p align="center">
   
   [Youtube](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
 </p>
 
+</div>
+
 <br>
+
+<div align="center">
+
+## </> Tools
+
+<br>
+
+</div>
+
+<div align="center">
+
+### </> Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,java,css" alt="Programming Languages" />
+</p>
+
+<br>
+
+### </> Software
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,notion,git" alt="Tools" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## | Stats |
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite" alt="Francisss9's stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&layout=compact&theme=graywhite" alt="Top Languages" />
+</p>
+
+</div>
 
 #
 
@@ -54,10 +79,8 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing e
 
 <div align="center">
 
-### </> Languages
+<span style="color:#627972; font-family:monospace">_Feel free to explore my repositories and get in touch with me if you'd like to collaborate on any projects or share new ideias!_</span>
 
-<img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<br>
 
 </div>
