@@ -65,13 +65,13 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite" alt="Francisss9's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite&hide_border=false&border_radius=15" alt="Francisss9's stats" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&layout=compact&theme=graywhite" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&theme=graywhite&hide_border=false&border_radius=15" alt="Top Languages" />
 </p>
 
 </div>
