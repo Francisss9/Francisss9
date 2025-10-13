@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<span style="color:#627972; font-family:monospace">_Feel free to explore my repositories and get in touch with me if you'd like to collaborate on any projects or share new ideas!_</span>
+<span style="color:#627972; font-family:monospace">_Take a look at my repositories and reach out if you’re interested in collaborating on projects or exchanging new ideas!_</span>
 
 <br>
 
