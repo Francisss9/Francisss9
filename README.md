@@ -9,11 +9,14 @@ I'm an 18-year-old student at ISEP and I'm focused on mastering and optimizing e
 - Day-trading;
 - Developing a high-performance lifestyle;
 - Learning code and app development;
+
 ---
 
 ### 📊 Stats
 ![Francisss9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&layout=compact)
+
 ---
 
 ### 🔗 Connect With Me
