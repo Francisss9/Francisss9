@@ -11,7 +11,7 @@
 ### </> Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,ubuntu" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,git,ubuntu,bash" alt="Programming Languages" />
 </p>
 
 <br>
