@@ -84,8 +84,7 @@
 <br>
 
 <p align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Francisss9&theme=graywhite)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Francisss9&theme=graywhite" alt="GitHub Streak" />
 </p>
 
 </div>
