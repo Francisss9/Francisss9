@@ -11,7 +11,7 @@
 ### </> Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,bash,arch" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,bash,arch" alt="Programming Languages" />
 </p>
 
 <br>
@@ -59,7 +59,7 @@
 ### </> Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,idea,vscode,github" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=notion,idea,vscode,git" alt="Tools" />
 
 </div>
 
