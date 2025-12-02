@@ -71,7 +71,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francisss9&show_icons=true&theme=graywhite&hide_border=false&border_radius=15" alt="Francisss9's stats" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray)](https://git.io/streak-stats)
 </p>
 
 <br>
@@ -81,10 +82,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Francisss9&theme=graywhite" alt="GitHub Streak" />
-</p>
 
 </div>
 
