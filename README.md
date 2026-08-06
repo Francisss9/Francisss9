@@ -42,7 +42,7 @@
 ### </> Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,bash" alt="Programming Languages" />
 </p>
 
 <br>
