@@ -11,7 +11,7 @@
 ### </> Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bash,c,linux,arch" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,bash,c,arch" alt="Programming Languages" />
 </p>
 
 <br>
@@ -50,7 +50,7 @@
 ### </> Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,arch" alt="Software" />
+  <img src="https://skillicons.dev/icons?i=windows,arch" alt="Software" />
 </p>
 
 <br>
