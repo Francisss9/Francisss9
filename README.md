@@ -58,7 +58,7 @@
 ### </> Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,idea,vscode,git,obsidian,neovim" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=notion,idea,git,emacs,neovim" alt="Tools" />
 
 </div>
 
