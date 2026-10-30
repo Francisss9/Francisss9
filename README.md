@@ -1,17 +1,57 @@
+<div align="center">
+
 # Francisco Gomes
 
-Estudante de Eng. Informática no ISEP, Porto.
+Estudante de Engenharia Informática no ISEP · Porto 🇵🇹
 
-Ando a fazer o **Rasto** (gestão de stock e site para stands de usados) e o **Kota** (orçamentos de oficina em PDF, funciona sem net). Tudo o que posso mostrar está no [Portfolio](https://github.com/Francisss9/Portfolio).
+[![Portfolio](https://img.shields.io/badge/Portfolio-Francisss9%2FPortfolio-ce0c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Francisss9/Portfolio)
+[![Kota](https://img.shields.io/badge/Kota-kota.francisgomesx.dev-111011?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kota.francisgomesx.dev)
 
-Vivo em Arch, Neovim e terminal. Java, TypeScript, Rust, Bash.
+</div>
 
-Se tens um stand ou uma oficina e queres testar, fala comigo.
+---
 
-[![Kota](https://img.shields.io/badge/Kota-site-ce0c24?style=flat-square)](https://kota.francisgomesx.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
-[![Discord](https://img.shields.io/badge/Discord-francisgomesx-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discord.com/users/francisgomesx)
+## 🏎️ O que ando a fazer
 
-<img src="https://skillicons.dev/icons?i=java,ts,rust,bash,arch,neovim,git" alt="stack" />
+| Projeto | O quê | Estado |
+| --- | --- | --- |
+| **Rasto** | Gestão de stock e site para stands de usados | Piloto online |
+| **Kota** | Orçamentos de oficina em PDF, funciona sem net | Android e Windows |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray)](https://git.io/streak-stats)
+Faço software para stands e oficinas aqui à volta. Quem trabalha numa oficina não quer andar a preencher formulários, quer abrir a app, fazer o orçamento e mandar ao cliente. É isso que tento fazer bem.
+Mais info e downloads no [Portfolio](https://github.com/Francisss9/Portfolio).
+
+## 🧠 Como trabalho
+
+- Prefiro ter uma versão feia na rua a ser testada por gente real do que uma coisa perfeita que ninguém usa.
+- Se tenho de fazer algo duas vezes, escrevo um script.
+- Os dados dos clientes ficam no telemóvel deles. Sem telemetria, sem contas à toa.
+- Corto tudo o que não ajuda no que é preciso agora.
+
+## 🛠️ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,java,bash,python&perline=7" alt="Linguagens" /><br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,supabase,git,github,vite,playwright&perline=6" alt="Plataforma" /><br>
+  <img src="https://skillicons.dev/icons?i=arch,windows,neovim,idea,notion&perline=5" alt="Ambiente" />
+</p>
+
+## 🔬 Fora de horas
+
+Arch Linux e [dotfiles](https://github.com/Francisss9/dotfiles), modding de PSP e scripts de terminal.
+
+## 📈 Atividade
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+*Tens um stand ou uma oficina e queres testar? Fala comigo ou abre um issue no [Portfolio](https://github.com/Francisss9/Portfolio/issues).*
+
+</div>
