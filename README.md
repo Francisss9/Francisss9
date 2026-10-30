@@ -25,8 +25,7 @@ Mais info e downloads no [Portfolio](https://github.com/Francisss9/Portfolio).
 
 - Prefiro ter uma versão feia na rua a ser testada por gente real do que uma coisa perfeita que ninguém usa.
 - Se tenho de fazer algo duas vezes, escrevo um script.
-- Os dados dos clientes ficam no telemóvel deles. Sem telemetria, sem contas à toa.
-- Corto tudo o que não ajuda no que é preciso agora.
+- Quero construir negócios que vivam por si, e começo por pôr estes dois a render a sério.
 
 ## 🛠️ Stack
 
