@@ -1,59 +1,17 @@
-<div align="center">
-
 # Francisco Gomes
 
-**Construo software que trabalha enquanto eu durmo.**
+Estudante de Eng. Informática no ISEP, Porto.
 
-Estudante de Engenharia Informática no ISEP · Porto 🇵🇹
+Ando a fazer o **Rasto** (gestão de stock e site para stands de usados) e o **Kota** (orçamentos de oficina em PDF, funciona sem net). Tudo o que posso mostrar está no [Portfolio](https://github.com/Francisss9/Portfolio).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Francisss9%2FPortfolio-ce0c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Francisss9/Portfolio)
-[![Kota](https://img.shields.io/badge/Kota-kota.francisgomesx.dev-111011?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kota.francisgomesx.dev)
+Vivo em Arch, Neovim e terminal. Java, TypeScript, Rust, Bash.
 
-</div>
+Se tens um stand ou uma oficina e queres testar, fala comigo.
 
----
+[![Kota](https://img.shields.io/badge/Kota-site-ce0c24?style=flat-square)](https://kota.francisgomesx.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
+[![Discord](https://img.shields.io/badge/Discord-francisgomesx-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discord.com/users/francisgomesx)
 
-## 🏎️ O que ando a construir
+<img src="https://skillicons.dev/icons?i=java,ts,rust,bash,arch,neovim,git" alt="stack" />
 
-| Projeto | O quê | Estado |
-| --- | --- | --- |
-| **Rasto** | Gestão de stock e website próprio para stands de usados em Portugal | Piloto online |
-| **Kota** | Orçamentos de reparação em PDF, 100% offline, para oficinas | Android e Windows |
-
-Oficinas e stands trabalham de luvas calçadas, com rede fraca e sem paciência para formulários. Faço ferramentas que abrem depressa, guardam tudo no dispositivo e produzem documentos prontos a entregar ao cliente.
-Detalhes, capturas e downloads no [**Portfolio →**](https://github.com/Francisss9/Portfolio)
-
-## 🧠 Como penso
-
-- **Mercado antes de arquitetura.** Uma v0.6 num stand real vale mais do que um sistema perfeito sem utilizadores.
-- **80/20 sem pena.** Corto o que não resolve o gargalo atual.
-- **Se faço duas vezes, automatizo.** Scripts, CI e IA fazem o trabalho repetitivo.
-- **Privacidade por desenho.** Sem telemetria, sem contas desnecessárias, dados no dispositivo.
-
-## 🛠️ Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,java,bash,python&perline=7" alt="Linguagens e frameworks" /><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,supabase,git,github,vite,playwright&perline=6" alt="Plataforma e tooling" /><br>
-  <img src="https://skillicons.dev/icons?i=arch,windows,neovim,idea,notion&perline=5" alt="Ambiente" />
-</p>
-
-## 🔬 Fora de horas
-
-Linux (Arch + [dotfiles](https://github.com/Francisss9/dotfiles)), modding de PSP e ferramentas de linha de comandos.
-
-## 📈 Atividade
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray&border_radius=8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-*Tens um stand ou uma oficina e queres menos papel e mais tempo? Abre um issue no [Portfolio](https://github.com/Francisss9/Portfolio/issues) ou fala comigo.*
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray)](https://git.io/streak-stats)
