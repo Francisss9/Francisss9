@@ -1,98 +1,59 @@
 <div align="center">
-  
-  ## | About Me |
 
-<br>
+# Francisco Gomes
 
-</div>
+**Construo software que trabalha enquanto eu durmo.**
 
-<div align="center">
+Estudante de Engenharia Informática no ISEP · Porto 🇵🇹
 
-### </> Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bash,c,arch" alt="Programming Languages" />
-</p>
-
-<br>
-
-### </> Connections
-
-<p align="center">
-  
-  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/francisgomesx)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_IeG_0J3sCMbdNhVXraPJw)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/francisgomesx)
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Francisss9%2FPortfolio-ce0c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Francisss9/Portfolio)
+[![Kota](https://img.shields.io/badge/Kota-kota.francisgomesx.dev-111011?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kota.francisgomesx.dev)
 
 </div>
 
-<br>
+---
+
+## 🏎️ O que ando a construir
+
+| Projeto | O quê | Estado |
+| --- | --- | --- |
+| **Rasto** | Gestão de stock e website próprio para stands de usados em Portugal | Piloto online |
+| **Kota** | Orçamentos de reparação em PDF, 100% offline, para oficinas | Android e Windows |
+
+Oficinas e stands trabalham de luvas calçadas, com rede fraca e sem paciência para formulários. Faço ferramentas que abrem depressa, guardam tudo no dispositivo e produzem documentos prontos a entregar ao cliente.
+Detalhes, capturas e downloads no [**Portfolio →**](https://github.com/Francisss9/Portfolio)
+
+## 🧠 Como penso
+
+- **Mercado antes de arquitetura.** Uma v0.6 num stand real vale mais do que um sistema perfeito sem utilizadores.
+- **80/20 sem pena.** Corto o que não resolve o gargalo atual.
+- **Se faço duas vezes, automatizo.** Scripts, CI e IA fazem o trabalho repetitivo.
+- **Privacidade por desenho.** Sem telemetria, sem contas desnecessárias, dados no dispositivo.
+
+## 🛠️ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,java,bash,python&perline=7" alt="Linguagens e frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,supabase,git,github,vite,playwright&perline=6" alt="Plataforma e tooling" /><br>
+  <img src="https://skillicons.dev/icons?i=arch,windows,neovim,idea,notion&perline=5" alt="Ambiente" />
+</p>
+
+## 🔬 Fora de horas
+
+Linux (Arch + [dotfiles](https://github.com/Francisss9/dotfiles)), modding de PSP e ferramentas de linha de comandos.
+
+## 📈 Atividade
 
 <div align="center">
 
-## </> Fav Tools
-
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
-
-### </> Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bash" alt="Programming Languages" />
-</p>
-
-<br>
-
-### </> Software
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,arch" alt="Software" />
-</p>
-
-<br>
-
-### </> Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,idea,git,emacs,neovim" alt="Tools" />
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
-## | Stats |
-
-<br>
-
-<p align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Francisss9&theme=icegray)](https://git.io/streak-stats)
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisss9&show_icons=true&theme=graywhite&hide_border=false&border_radius=15" alt="Top Languages" />
-</p>
-
-<br>
-
-</div>
-
-#
-
-<br>
-
-<div align="center">
-
-<span style="color:#627972; font-family:monospace">_Take a look at my repositories and reach out if you’re interested in collaborating on projects or exchanging new ideas!_</span>
-
-<br>
+*Tens um stand ou uma oficina e queres menos papel e mais tempo? Abre um issue no [Portfolio](https://github.com/Francisss9/Portfolio/issues) ou fala comigo.*
 
 </div>
