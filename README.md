@@ -30,7 +30,7 @@ Porto 🇵🇹
     </td>
     <td width="50%" valign="top">
       <h3>🚗 Rasto</h3>
-      <p>Gestão de stock e site para stands de usados.</p>
+      <p>Gestão de stock para stands.</p>
       <p>
         <img src="https://img.shields.io/badge/Web-111011?style=flat-square&logo=cloudflare&logoColor=white" alt="Web" />
         <img src="https://img.shields.io/badge/estado-piloto%20online-f59e0b?style=flat-square" alt="Piloto online" />
