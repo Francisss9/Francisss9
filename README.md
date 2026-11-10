@@ -51,7 +51,7 @@ Mais detalhes e downloads no [**Portfolio →**](https://github.com/Francisss9/P
 ## 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,java,bash,python&perline=7" alt="Linguagens" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,java,bash,python,cpp&perline=8" alt="Linguagens" /><br>
   <img src="https://skillicons.dev/icons?i=cloudflare,supabase,git,github,vite,playwright&perline=6" alt="Plataforma" /><br>
   <img src="https://skillicons.dev/icons?i=arch,windows,neovim,idea,notion&perline=5" alt="Ambiente" />
 </p>
