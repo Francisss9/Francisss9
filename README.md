@@ -44,9 +44,9 @@ Mais detalhes e downloads no [**Portfolio →**](https://github.com/Francisss9/P
 
 ## 🧠 Como trabalho
 
-- Prefiro ter uma versão feia na rua a ser testada por gente real do que uma coisa perfeita que ninguém usa.
-- Se tenho de fazer algo duas vezes, escrevo um script.
-- Quero construir negócios que vivam por si, e começo por pôr estes dois a render a sério.
+- Prefiro ter uma versão inacabada, publicada e a ser testada por gente real do que uma coisa perfeita que ninguém usa.
+- Se tenho de fazer algo duas vezes, escrevo um script, apaixonado por automação.
+- Quero construir negócios que vivam por si, e começo por colocar estes dois a render a sério.
 
 ## 🛠️ Stack
 
