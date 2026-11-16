@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ce0c24,100:111011&text=Francisgomesx&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Estudante%20de%20Eng.%20Inform%C3%A1tica%20%C2%B7%20Founder&descSize=20&descAlignY=60" alt="Francisgomesx" width="100%" />
 
-**Estudo no ISEP, construo SaaS e quero que um dia trabalhe por mim.**
+**Estudo no ISEP, procuro criar negócios e contribuir para a sociedade.**
 
 Porto 🇵🇹
 
